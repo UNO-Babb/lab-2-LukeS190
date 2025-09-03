@@ -10,7 +10,7 @@ def main():
   #Create a list of your responses.
   print("Magic 8 Ball")
   #Prompt the user for their question.
-  What is my name
+  print("What is my name")
 answers = ["Luke 1", "Jeff 2", "Mike 3", "Taylor 4", "Gordon 5"]
   #Answer question randomly with one of the options from your earlier list.
 r = random.random() * 5
